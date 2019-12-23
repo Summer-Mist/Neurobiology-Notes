@@ -1,3 +1,5 @@
+[toc]
+
 # history
 name | time | discovery 
 :-: | :-: | :-: | 
@@ -30,12 +32,11 @@ Slow release:
 1. triggered by Doc2 and residual [Ca2+]i
 2. lasts several hundred ms
 3. Important for neural network excitation
-4. Asynchronous release is crucial for the modulation of
-postsynaptic action potential firing pattern
+4. Asynchronous release is crucial for the modulation of postsynaptic action potential firing pattern
 5. Asynchronous release is critical for reverberation
 
 Quantal release
-1. mEEP, can be recorded under low [Ca]_o
+1. mEEP, can be recorded under low [Ca]<sub>o</sub>
 2. can be recorded in small central synapses
 
 ## synaptic vesicle cycle
