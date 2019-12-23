@@ -26,7 +26,5 @@
 
 	除了观察单个细胞的形态，我们还希望了解神经元之间连接的情况。GRASP技术和Functional Mapping能检验两个神经元之间有无连接关系，而基于化学物质或病毒的跨膜tracer则可以找出某个神经元的上游或下游神经元。
 
-	上述就是神经环路研究的常用分子生物学方法了。
-
 # reference 
 	Bassett, D., Sporns, O. Network neuroscience. Nat Neurosci 20, 353–364 (2017) doi:10.1038/nn.4502
