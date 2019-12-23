@@ -40,3 +40,13 @@ Quantal release
 2. can be recorded in small central synapses
 
 ## synaptic vesicle cycle
+steps:
+1. SV transportation
+2. Docking
+3. Priming
+4. Exocytosis
+5. Endocytosis
+
+Evidence for SV release: freeze-fracture electromicroscopy
+Synaptic vesicle proteins that are involved in regulating Ca2+-triggered exocytotic processes: 
+
